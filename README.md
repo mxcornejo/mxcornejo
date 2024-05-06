@@ -6,8 +6,8 @@ Front End Developer
 
 📱 Desarrollador apasionado por las experiencias móviles. Especializado en Front-end y tecnologías móviles como React Native, Flutter y Ionic.
 
-* 🌍  I'm based in Chile
-* ✉️  You can contact me at [manuelxcornejo@gmail.com](mailto:manuelxcornejo@gmail.com)
+* 🌍  Vivo en Chile
+* ✉️  Mi contacto es [manuelxcornejo@gmail.com](mailto:manuelxcornejo@gmail.com)
 
 ### Skills
 
